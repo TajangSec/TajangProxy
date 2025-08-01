@@ -29,6 +29,6 @@
 - Uninstalling the extension will remove all stored data.
 
 ### Contact:
-For questions about this privacy policy, please contact: [your-email@example.com]
+For questions about this privacy policy, please contact: [Tajang@qq.com]
 
 **Last updated**: 2025/08/01
